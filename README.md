@@ -21,4 +21,4 @@
     2.Blue
     3.Green
 
-[Gmail](www.gmail.com)
+[Google](www.google.com)
